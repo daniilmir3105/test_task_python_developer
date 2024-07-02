@@ -1,0 +1,105 @@
+# Python
+*.py[cod]
+__pycache__/
+*.so
+*.egg
+*.egg-info/
+*.pyd
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.pyo
+*.sqlite3
+db.sqlite3
+migrations/
+.DS_Store
+
+# If your environment is different, adjust accordingly
+*.env
+.env
+*.ini
+*.cfg
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+venv.bak/
+ENV.bak/
+
+# If you are using PostgreSQL:
+*.pgpass
+
+# Node.js / npm
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+yarn.lock
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# pytest
+.cache/
+.pytest_cache/
+
+# Environments
+.env
+*.env
+
+# MySQL dumps
+*.sql
+
+# static files
+/static/
+staticfiles/
+
+# media files
+/media/
+mediafiles/
+
+# Backup files
+*.bak
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# JetBrains project files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Secret key file
+secret_key
